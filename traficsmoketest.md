@@ -14,3 +14,6 @@ When making changes to notes need to Pull first, Ctr + P 'Git: Pull'
 Pull:Everything is up-to date
 
 If you are updating something, Ctrl + P 'Git Commit-and-sync'
+
+
+I am updating this here now 
