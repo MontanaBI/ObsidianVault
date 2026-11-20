@@ -1,4 +1,4 @@
 # ObsidianVault
 
-Testing testing 123
+Linked to my Desktop obsidian as a backup store
 
